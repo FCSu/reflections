@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	It creates a new '.git' directory. You have to tell git to start tracking files in this directory.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	
+	We put files waiting to be committed in the staging area. Working directory is the place where you work on. It contains all the files in the directory. Repository is where the committed snapshots are. The staging area makes it possible to not tracking every single file in our working directory.
