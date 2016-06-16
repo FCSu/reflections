@@ -17,3 +17,7 @@ What are some situations when branches would be helpful in keeping your history 
 How do the diagrams help you visualize the branch structure?
 
 	It helps me to understand which commit belongs to which branch, and it is easier to see which commit is unreachable.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	It will create a new commit whose parents are from the two former branches.
