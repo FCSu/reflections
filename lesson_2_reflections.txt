@@ -5,3 +5,7 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 	
 	We put files waiting to be committed in the staging area. Working directory is the place where you work on. It contains all the files in the directory. Repository is where the committed snapshots are. The staging area makes it possible to not tracking every single file in our working directory.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	Only add changes for each single logical change.
