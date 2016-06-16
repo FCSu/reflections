@@ -9,3 +9,11 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
 
 	Only add changes for each single logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Making a experimental feature, making a different version, something that do not affect the current code permenantly. Branches would make these situations easier to go back and forth.
+
+How do the diagrams help you visualize the branch structure?
+
+	It helps me to understand which commit belongs to which branch, and it is easier to see which commit is unreachable.
