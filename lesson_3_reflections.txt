@@ -13,3 +13,11 @@ Describe the differences between forks, clones, and branches. When would you use
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 	To reduce the chance of conflicts. Less conflicts means less merges.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	Using google documents or dropbox with communication programs. Git and GitHub would make things easier.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	When working with experimental features, it is a good idea to make changes in a different branch. It keeps the master branch clean because it may need a lot of modifications. Working on a different branch requires more work but keep others from regular updates of master branch.
